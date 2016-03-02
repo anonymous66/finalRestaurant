@@ -1,0 +1,42 @@
+*** Day started to process Taxis and Passenger Groups ***
+
+Worker mvc_model.Worker@6bdcf5e8 processed taxi AA45 QQT for 3 people in PassengerGroup A, they are going to Edinburgh Zoo Park.
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+Worker mvc_model.Worker@6bbdd26f processed taxi BB90 RHU for 2 people in PassengerGroup B, they are going to Portobello Beach.
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+*** speed changed to slow***
+
+Worker mvc_model.Worker@6bdcf5e8 processed taxi CC30 EAP for 3 people in PassengerGroup C, they are going to National museum of Scotland.
+
+Worker mvc_model.Worker@6bbdd26f processed taxi DD40 PLN for 2 people in PassengerGroup D, they are going to Rosslyn Chapel.
+
+Worker mvc_model.Worker@6bdcf5e8 processed taxi EE35 RRT for 5 people in PassengerGroup E, they are going to Jonhs Groat.
+
+Worker mvc_model.Worker@6bbdd26f processed taxi FF41 TYY for 4 people in PassengerGroup F, they are going to London.
+
+Application Stopping...
+
+mvc_model.Worker@6bbdd26f has finished.
+
+mvc_model.Worker@6bdcf5e8 has finished.
+
+*** Work completed, take the rest of the day off... ***
+

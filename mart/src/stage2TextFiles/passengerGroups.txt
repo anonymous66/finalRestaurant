@@ -1,0 +1,20 @@
+Edinburgh Zoo Park, A, 3
+Portobello Beach, B, 2
+National museum of Scotland, C, 3
+Rosslyn Chapel, D, 2
+Jonhs Groat, E, 5
+London , F, 4
+Heriot Watt University, G, 1
+Rosslyn Chapel, H, 3
+Charlotte Square , I, 2
+Rosslyn Chapel, J, 8
+Royale Mile, K, 2
+National museum of Scotland , L, 1
+Rosslyn Chapel, M, 4
+Heriot Watt University, N, 2
+Charlotte Square , O, 3
+National museum of Scotland , P, 2
+Heriot Watt University, Q, 4
+Glasgow Train Station , R, 5
+Heriot Watt University, S, 3
+R0me, Z, 3

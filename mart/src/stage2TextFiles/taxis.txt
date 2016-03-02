@@ -1,0 +1,13 @@
+AA45 QQT,Michael, Claptin,5
+BB90 RHU ,Bobby, Smith,5
+CC30 EAP,Frank, Sidebottom,8
+DD40 PLN,Oliver, Sacks,5
+EE35 RRT,Mary, Dinkle,10
+FF41 TYY, Max, Horovitz,5
+GG26 KPP, Bilbo, Baggins,4
+HH19 EER, Mike, Wazowski,5
+II23 WEE, James, Sullivan,8
+KK34 SDF, Pi, Patel,5
+LL08 WWT,Carl, Fredricksen,1
+MM45 KMN,Charles, Muntz,5
+NN60 UNI,Linus, Torvalds,12
